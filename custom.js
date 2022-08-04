@@ -48,6 +48,7 @@ function minBy(arrVal, userData)  {
     return baseFunc(arr, userData, 'min');
 };
 
+
 // === MinBY && MinBY Base Func === 
 function baseFunc(arr, prop, condition) {
     let num = typeof prop == 'function' ? prop(arr[0]) :arr[0][prop];
