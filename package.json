@@ -1,0 +1,23 @@
+{
+  "name": "shortmath",
+  "version": "1.0.0",
+  "description": "This is a javascript library that contains some basic mathematical function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpxpo/shortmath.git"
+  },
+  "keywords": [
+    "math",
+    "shortMath"
+  ],
+  "author": "Anik Biswas, Jisan Ahmed, Mahin Tazuar, Azim Khan, Tazeen Ehsan Tibro, Abdullah Al Asif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpxpo/shortmath/issues"
+  },
+  "homepage": "https://github.com/wpxpo/shortmath#readme"
+}
